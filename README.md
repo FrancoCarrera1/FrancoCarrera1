@@ -2,4 +2,4 @@
 ### :file_folder: Information Technology Projects
 
   - <b>os Ticket (Help Desk Ticketing System)
-    - [osTicket:Prerequisites and Installation](https://github.com/FrancoCarrera1/osticket-prereqs)
+    - [osTicket: Prerequisites and Installation](https://github.com/FrancoCarrera1/osticket-prereqs)
