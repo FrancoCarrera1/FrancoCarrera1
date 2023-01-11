@@ -3,3 +3,4 @@
 
   - <b>os Ticket (Help Desk Ticketing System)
     - [osTicket: Prerequisites and Installation](https://github.com/FrancoCarrera1/osticket-prereqs)
+    - [osTicket: Post Installation Setup](https://github.com/FrancoCarrera1/osticket-postinstallion-setup/new/main?readme=1)
