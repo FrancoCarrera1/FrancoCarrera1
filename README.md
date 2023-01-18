@@ -7,4 +7,4 @@
     - [osTicket:Ticket Lifecycles ](https://github.com/FrancoCarrera1/tlifecycles)
  
  - <b>Linux Mint (Operating System)
-    - Creating a Linux Mint Bootable USB Drive
+    - [Linux Mint: Creating a Linux Mint Bootable USB Drive](https://github.com/FrancoCarrera1/LMint-bootable-USB)
