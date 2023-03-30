@@ -7,5 +7,5 @@
     - [osTicket:Ticket Lifecycles ](https://github.com/FrancoCarrera1/tlifecycles)
     
   ### My Python Learning Journey :snake:	
- 
+ - [100 Days of Python](https://github.com/FrancoCarrera1/100_days_py/blob/main/README.md)
  
