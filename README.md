@@ -6,6 +6,6 @@
     - [osTicket: Post Installation Setup](https://github.com/FrancoCarrera1/osTicketpostinstallation-setup)
     - [osTicket:Ticket Lifecycles ](https://github.com/FrancoCarrera1/tlifecycles)
     
-  -<b>My Python Learning Journey
+  ### My Python Learning Journey
  
  
