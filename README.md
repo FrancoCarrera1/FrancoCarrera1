@@ -6,5 +6,4 @@
     - [osTicket: Post Installation Setup](https://github.com/FrancoCarrera1/osTicketpostinstallation-setup)
     - [osTicket:Ticket Lifecycles ](https://github.com/FrancoCarrera1/tlifecycles)
  
- - <b>Linux Mint (Operating System)
-    - [Linux Mint: Creating a Linux Mint Bootable USB Drive](https://github.com/FrancoCarrera1/LMint-bootable-USB)
+ 
