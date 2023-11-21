@@ -8,5 +8,5 @@
 
 
 - <b>Kasm Server<b> 
- - [What is the purpose of a Kasm Server?](https://github.com/FrancoCarrera1/FrancoCarrera1/blob/63a587f7e2a644d638e6ee4b027b31794f6dc96e/whykasm%3F)
+ - [What is the purpose of a Kasm Server?]
  
