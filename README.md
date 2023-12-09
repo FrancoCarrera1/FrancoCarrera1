@@ -7,6 +7,7 @@
     - [osTicket:Ticket Lifecycles ](https://github.com/FrancoCarrera1/tlifecycles)
 
 ### 📁Cloud Projects ☁️
+- [<b>CLI CloudUploader<b>](https://github.com/FrancoCarrera1/CloudUploader-CLI/tree/main)
 ### 📁Homelab Projects 🏠 👨‍💻
 - [<b>Kasm Server Project<b>](https://github.com/FrancoCarrera1/kasmsrv)
 
