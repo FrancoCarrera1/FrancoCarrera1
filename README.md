@@ -6,8 +6,8 @@
     - [osTicket: Post Installation Setup](https://github.com/FrancoCarrera1/osTicketpostinstallation-setup)
     - [osTicket:Ticket Lifecycles ](https://github.com/FrancoCarrera1/tlifecycles)
 
-### Cloud Projects ☁️
-### Homelab Projects 🏠 👨‍💻
+### 📁Cloud Projects ☁️
+### 📁Homelab Projects 🏠 👨‍💻
 - [<b>Kasm Server Project<b>](https://github.com/FrancoCarrera1/kasmsrv)
 
 
