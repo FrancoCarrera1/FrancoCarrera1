@@ -10,7 +10,6 @@
 - [<b>CloudUploader-CLI<b>](https://github.com/FrancoCarrera1/CloudUploader-CLI/tree/main)
 ### 📁Homelab Projects 🏠 👨‍💻
 - [<b>Kasm Server Project<b>](https://github.com/FrancoCarrera1/kasmsrv)
-- [<b>Vaultwarden Container<b>](https://github.com/FrancoCarrera1/vaultwardenfc23/tree/main)
 
 
   
