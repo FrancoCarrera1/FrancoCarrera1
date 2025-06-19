@@ -11,7 +11,7 @@
 ### 📁Homelab Projects 🏠 👨‍💻
 - [<b>Kasm Server Project<b>](https://github.com/FrancoCarrera1/kasmsrv)
 
-## Red Hat Study
+## :computer: Red Hat Study
 - [<b>RHCE<b>](https://github.com/FrancoCarrera1/rhce-study)
 
 
