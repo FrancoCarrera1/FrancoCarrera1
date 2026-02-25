@@ -24,6 +24,25 @@ Difficulty split: 10 Easy · 13 Medium · 10 Hard
 
 ---
 
+## Ansible Automation Study Lab
+
+**[ansible-study-lab](https://github.com/FrancoCarrera1/rhce-study)**
+
+A terminal-based practice exam runner I built to study Ansible automation. It presents timed tasks in a TUI, then verifies your work by SSHing into Vagrant VMs and checking that everything was actually configured correctly — inventory files, vault encryption, user accounts, LVM volumes, cron jobs, the works.
+
+Includes 20 progressive lessons, 4 full-length practice exams, and automated grading against real VM state. The whole lab runs locally on a multi-node AlmaLinux 9 Vagrant environment (1 control + 5 managed nodes).
+
+| Content | Count |
+|---------|-------|
+| Guided lessons | 20 |
+| Practice exams | 4 |
+| Unique tasks | 70+ |
+| Automated checks | 300+ |
+
+Built with Python (Textual TUI), Ansible, Vagrant, and AlmaLinux 9.
+
+---
+
 ## Other Projects
 
 ### Cloud & DevOps
@@ -34,10 +53,6 @@ Difficulty split: 10 Easy · 13 Medium · 10 Hard
 
 - **[Kasm Server](https://github.com/FrancoCarrera1/kasmsrv)** — Kasm workspace server setup
 - **[Vaultwarden](https://github.com/FrancoCarrera1/vaultwardenfc23)** — Self-hosted password manager running on my own hardware
-
-### Linux & Automation
-
-- **[RHCE Study](https://github.com/FrancoCarrera1/rhce-study)** — Ansible playbooks I wrote while studying for the RHCE
 
 ### IT Operations
 
