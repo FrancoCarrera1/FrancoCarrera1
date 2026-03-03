@@ -95,9 +95,11 @@ Built with Python (Textual TUI), Ansible, Vagrant, and AlmaLinux 9.
 
 ## Portfolio Site
 
-**Static portfolio hosted on AWS S3 + CloudFront.** Built as a hands-on exercise for the AWS Solutions Architect Associate exam — covers S3 static hosting, CloudFront distributions, Origin Access Control, and Route53 DNS.
+**[francolinux.ramsec.net](https://francolinux.ramsec.net)**
 
-Built with: HTML, CSS, AWS S3, CloudFront
+Static portfolio hosted on AWS S3 + CloudFront with a custom domain via Cloudflare DNS. Built as a hands-on exercise for the AWS Solutions Architect Associate exam — covers S3 static hosting, CloudFront distributions, Origin Access Control, ACM certificates, and custom domain configuration.
+
+Built with: HTML, CSS, AWS S3, CloudFront, ACM, Cloudflare DNS
 
 ---
 
