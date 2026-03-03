@@ -6,6 +6,21 @@ I work in IT with a focus on cloud infrastructure, Kubernetes, and Linux. I like
 
 ---
 
+## Jarvis AI Homelab
+
+Self-hosted AI assistant ecosystem running on a K3s cluster (Proxmox VM, Rocky Linux 9). Everything is deployed with Helm and orchestrated through n8n workflows.
+
+| Component | Stack |
+|-----------|-------|
+| Morning Briefing Bot | Open-Meteo + RSS feeds + LLM summarization, delivered daily via Telegram |
+| Second Brain | PostgreSQL with pgvector + Ollama (local embeddings) — semantic search over my entire Obsidian vault |
+| Social Media Pipeline | LLM content generation, delivered to Telegram for review |
+| Infrastructure | K3s, Helm, rclone (OneDrive sync), PVCs, NodePort services |
+
+Built with: K3s, Helm, n8n, Ollama, PostgreSQL, pgvector, Telegram Bot API, rclone
+
+---
+
 ## CKAD Killercoda Scenarios
 
 **[ckad-killercoda-scenarios](https://github.com/FrancoCarrera1/ckad-killercoda-scenarios)**
@@ -40,6 +55,14 @@ Includes 20 progressive lessons, 4 full-length practice exams, and automated gra
 | Automated checks | 300+ |
 
 Built with Python (Textual TUI), Ansible, Vagrant, and AlmaLinux 9.
+
+---
+
+## Portfolio Site
+
+**Static portfolio hosted on AWS S3 + CloudFront.** Built as a hands-on exercise for the AWS Solutions Architect Associate exam — covers S3 static hosting, CloudFront distributions, Origin Access Control, and Route53 DNS.
+
+Built with: HTML, CSS, AWS S3, CloudFront
 
 ---
 
