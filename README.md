@@ -26,18 +26,7 @@ I work in IT with a focus on cloud infrastructure, Kubernetes, and Linux. I like
 
 ---
 
-### GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FrancoCarrera1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCarrera1&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoCarrera1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoCarrera1&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
 
 ---
 
